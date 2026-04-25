@@ -1,16 +1,34 @@
-# Bem-vindo ao meu perfil!
+# Bem-vindo ao meu perfil! 👋
 
 ## Sobre Mim
 
-👋 Olá! Sou Mozart Dias, um estudante de Informática Biomédica na Universidade Federal do Paraná. Meu entusiasmo pela tecnologia.
+Sou **Mozart Dias**, graduando em **Informática Biomédica** na UFPR. 
+* 🎓 Estudante de Informática Biomédica (UFPR)
 
-## Interesses
 
-💻 Tenho um interesse profundo em:
+---
 
-- Desenvolvimento de software.
+## 🛠️ Tecnologias e Ferramentas
 
-## Projetos e Estatísticas
+### Linguagens e Backend
+<div style="display: inline-block">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+</div>
+
+### Engenharia de Dados & Cloud
+<div style="display: inline-block">
+  <img align="center" alt="GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
+
+---
+
+## 📊 Estatísticas e Projetos
 
 <div>
   <a href="https://github.com/AmortzDi">
@@ -19,16 +37,13 @@
   </a>
 </div>
 
-## Linguagens de Programação
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-</div>
+## ✨ No que estou trabalhando
+- 🏗️ **Data Engineering:** Aprendendo dbt, BigQuery e Apache Airflow.
+- ☁️ **Google Cloud:** Concluindo o GCCF Academy.
 
-## Colaboração
+---
 
-⚡️ Estou sempre aberto a colaborações e oportunidades de aprendizado. Se você estiver interessado em trabalhar juntos ou tiver alguma ideia, sinta-se à vontade para entrar em contato comigo!
 
-## Obrigado por Visitar!
-
-🚀 Agradeço por visitar meu perfil do GitHub!
+🚀 *Obrigado por visitar meu perfil!*
